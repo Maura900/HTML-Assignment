@@ -1,0 +1,7 @@
+.Submit {display: flex;
+flex-direction: column;
+}
+.Submit fieldset .name , .Email {padding: 10px;}
+.Submit fieldset .Submin {padding-bottom: 20px;}
+fieldset {border-radius: 30px;}
+.Submin {display: flex;}
